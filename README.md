@@ -5,7 +5,7 @@
 来源
 ----------------------
 
-[**中国特色话语对外翻译标准化术语库**](http://210.72.20.108/index/index.jsp)：[源mdx格式词典](http://210.72.20.108/index/index.jsp)
+[**中国特色话语对外翻译标准化术语库**](http://210.72.20.108/index/index.jsp)：[源mdx格式词典](https://github.com/VIKI623/China_important_political_words/tree/main/source)
 
 语料主要来自中国官方媒体的报道和各级官员的公开发言
 
